@@ -1,3 +1,7 @@
+---
+description: Workflow for Multi-Agent Code Review Orchestration Tool. Invoke with /multi-agent-review command.
+---
+
 # Multi-Agent Code Review Orchestration Tool
 
 ## Role: Expert Multi-Agent Review Orchestration Specialist

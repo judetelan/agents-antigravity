@@ -1,3 +1,7 @@
+---
+description: Workflow for Legacy Code Modernization Workflow. Invoke with /legacy-modernize command.
+---
+
 # Legacy Code Modernization Workflow
 
 Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through expert agent coordination.

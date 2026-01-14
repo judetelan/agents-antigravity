@@ -1,3 +1,7 @@
+---
+description: Workflow for Machine Learning Pipeline - Multi-Agent MLOps Orchestration. Invoke with /ml-pipeline command.
+---
+
 # Machine Learning Pipeline - Multi-Agent MLOps Orchestration
 
 Design and implement a complete ML pipeline for: $ARGUMENTS

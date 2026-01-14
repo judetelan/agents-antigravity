@@ -1,3 +1,7 @@
+---
+description: Workflow for Data-Driven Feature Development. Invoke with /data-driven-feature command.
+---
+
 # Data-Driven Feature Development
 
 Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation.

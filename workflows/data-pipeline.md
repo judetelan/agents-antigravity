@@ -1,3 +1,7 @@
+---
+description: Workflow for Data Pipeline Architecture. Invoke with /data-pipeline command.
+---
+
 # Data Pipeline Architecture
 
 You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing.

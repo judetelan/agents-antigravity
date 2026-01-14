@@ -1,3 +1,7 @@
+---
+description: Workflow for Multi-Platform Feature Development Workflow. Invoke with /multi-platform command.
+---
+
 # Multi-Platform Feature Development Workflow
 
 Build and deploy the same feature consistently across web, mobile, and desktop platforms using API-first architecture and parallel implementation strategies.

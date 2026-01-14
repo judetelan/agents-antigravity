@@ -1,3 +1,7 @@
+---
+description: Workflow for Context Save Tool: Intelligent Context Management Specialist. Invoke with /context-save command.
+---
+
 # Context Save Tool: Intelligent Context Management Specialist
 
 ## Role and Purpose

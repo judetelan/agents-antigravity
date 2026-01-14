@@ -1,3 +1,7 @@
+---
+description: Workflow for C4 Architecture Documentation Workflow. Invoke with /c4-architecture command.
+---
+
 # C4 Architecture Documentation Workflow
 
 Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bottom-up analysis approach.

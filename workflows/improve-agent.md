@@ -1,3 +1,7 @@
+---
+description: Workflow for Agent Performance Optimization Workflow. Invoke with /improve-agent command.
+---
+
 # Agent Performance Optimization Workflow
 
 Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration.

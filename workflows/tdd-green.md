@@ -1,3 +1,7 @@
+---
+description: Workflow for Implement minimal code to make failing tests pass in TDD green phase:. Invoke with /tdd-green command.
+---
+
 Implement minimal code to make failing tests pass in TDD green phase:
 
 [Extended thinking: This tool uses the test-automator agent to implement the minimal code necessary to make tests pass. It focuses on simplicity, avoiding over-engineering while ensuring all tests become green.]

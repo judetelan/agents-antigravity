@@ -1,3 +1,7 @@
+---
+description: Workflow for Write comprehensive failing tests following TDD red phase principles.. Invoke with /tdd-red command.
+---
+
 Write comprehensive failing tests following TDD red phase principles.
 
 [Extended thinking: Generates failing tests that properly define expected behavior using test-automator agent.]

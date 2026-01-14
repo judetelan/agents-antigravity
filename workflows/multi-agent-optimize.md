@@ -1,3 +1,7 @@
+---
+description: Workflow for Multi-Agent Optimization Toolkit. Invoke with /multi-agent-optimize command.
+---
+
 # Multi-Agent Optimization Toolkit
 
 ## Role: AI-Powered Multi-Agent Performance Engineering Specialist

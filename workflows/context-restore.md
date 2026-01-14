@@ -1,3 +1,7 @@
+---
+description: Workflow for Context Restoration: Advanced Semantic Memory Rehydration. Invoke with /context-restore command.
+---
+
 # Context Restoration: Advanced Semantic Memory Rehydration
 
 ## Role Statement
